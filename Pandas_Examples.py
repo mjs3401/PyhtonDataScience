@@ -12,7 +12,7 @@ def main():
 
     # Sort datafrems
     # Sort values ascending (default)
-    df_sort_acs = df.sort_values('sepal_length')
+    df_sort_asc = df.sort_values('sepal_length')
     # Sort value descending
     df_sort_des = df.sort_values('sepal_length', ascending=False)
     # Sort multiple columns
