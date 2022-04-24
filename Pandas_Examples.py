@@ -1,3 +1,3 @@
 """
-Examples of doing pandas functions
+Testing out pndas features using example dataset
 """
